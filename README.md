@@ -42,9 +42,25 @@ Proyek ini bertujuan untuk menyiapkan laporan untuk divisi kredit suatu bank. De
 
 ### 13. **Fitness Profit Analysis** -
 
-### 14. **A/B Testing Recommender System** -
+### 14. **A/B Testing Recommender System** - [Link](https://github.com/AdamGustiAndito/AB-Testing-Recommender-System)
+Proyek ini bertujuan untuk menguji perubahan terkait pengenalan sistem rekomendasi yang telah ditingkatkan󠀲󠀡󠀠󠀦󠀥󠀨󠀢󠀧󠀳 dengan menggunakan metode A/B Testing dengan rincian sebagai berikut:
+- Nama eksperimen:󠀲󠀡󠀠󠀦󠀥󠀨󠀢󠀡󠀳 `recommender_system_test`
+- Kelompok: А (kontrol), B (funnel pembayaran yang baru)󠀲󠀡󠀠󠀦󠀥󠀨󠀢󠀢󠀳
+- Tanggal dimulainya eksperimen: 07-12-2020󠀲󠀡󠀠󠀦󠀥󠀨󠀢󠀣󠀳
+- Tanggal saat mereka berhenti menerima pengguna baru: 21-12-2020󠀲󠀡󠀠󠀦󠀥󠀨󠀢󠀤󠀳
+- Tanggal berakhirnya eksperimen: 01-01-2021󠀲󠀡󠀠󠀦󠀥󠀨󠀢󠀥󠀳
+- Audiens: 15% pengguna baru dari kawasan Uni Eropa󠀲󠀡󠀠󠀦󠀥󠀨󠀢󠀦󠀳
+- Tujuan eksperimen: menguji perubahan terkait pengenalan sistem rekomendasi yang telah ditingkatkan󠀲󠀡󠀠󠀦󠀥󠀨󠀢󠀧󠀳
+- Hasil yang diharapkan: dalam kurun waktu 14 hari setelah pendaftaran, para pengguna menunjukkan peningkatan dalam hal konversi ke tayangan halaman produk (peristiwa atau event product_page), aktivitas penambahan item ke keranjang belanja (product_cart), dan pembelian (purchase).󠀲󠀡󠀠󠀦󠀥󠀨󠀢󠀨󠀳󠀰 Pada setiap tahapan funnel `product_page → product_cart → purchase`, minimal akan ada peningkatan sebesar 10%.󠀲󠀡󠀠󠀦󠀥󠀨󠀢󠀩󠀳
+- Jumlah peserta eksperimen yang diharapkan: 6.000󠀲󠀡󠀠󠀦󠀥󠀨󠀣󠀠󠀳
 
-### 15. **Analysis of Bestsellers** -
+### 15. **Analysis of Bestsellers** - [Link](https://github.com/AdamGustiAndito/Analysis-of-bestsellers/blob/main/README.md)
+Proyek ini bertujuan untuk memahami tren buku dalam database yang telah diberikan oleh salah satu perusahaan startup yang bersaing dalam industri ini. Berikut rincian tugas yaitu:
+- Menghitung jumlah buku yang dirilis setelah tanggal 1 Januari 2000.󠀲󠀡󠀠󠀦󠀥󠀩󠀠󠀩󠀳
+- Menghitung jumlah ulasan pengguna dan rating rata-rata untuk setiap buku.󠀲󠀡󠀠󠀦󠀥󠀩󠀡󠀠󠀳
+- Mengidentifikasi penerbit yang telah menerbitkan jumlah buku terbanyak dengan jumlah halaman lebih dari 50.
+- Mengidentifikasi penulis dengan rating rata-rata buku tertinggi: temukan buku dengan rating minimal 50.󠀲󠀡󠀠󠀦󠀥󠀩󠀡󠀢󠀳
+- Menghitung jumlah rata-rata teks ulasan di antara pengguna yang memberi rating terhadap lebih dari 50 buku.
 
 ### 16. **Product Variety Analysis** - [Link](https://github.com/AdamGustiAndito/Product-Analysis-Variation) 
 Proyek ini bertujuan untuk menganalisis variasi produk yang dijual oleh toko online "Apa Hardware". Berikut beberapa tujuan dari proyek tersebut:
