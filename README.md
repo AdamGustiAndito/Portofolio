@@ -1,4 +1,5 @@
-# 📊 Data Analyst Portfolio
+# 📊 Data Analyst Portfolio 
+💡 **Milik:** Adam Gusti Andito  
 
 Selamat datang di portofolio saya! 🎯
 Di sini, saya membagikan proyek analisis data yang telah saya kerjakan.
@@ -22,25 +23,29 @@ Proyek ini bertujuan untuk menyiapkan laporan untuk divisi kredit suatu bank. De
 - Hubungan antara tingkat pendapatan dengan probabilitas seseorang melakukan gagal bayar pinjaman.
 - Perbedaan tujuan pinjaman memengaruhi probabilitas seseorang melakukan gagal bayar pinjaman.
 
-### 4. **Analisis Penjualan Mobil** -
+### 3. **Analisis Penjualan Mobil** -
 
-### 5. **Analisis Paket Prabayar** -
+### 4. **Analisis Paket Prabayar** -
 
-### 6. **Analisis Video Game** -
+### 5. **Analisis Video Game** -
 
-### 7. **Analisis Perjalanan dan Pengaruh Cuaca** -
+### 6. **Analisis Perjalanan dan Pengaruh Cuaca** -
 
-### 8. **Analisis Anggaran Pemasaran** -
+### 7. **Analisis Anggaran Pemasaran** -
 
-### 9. **Analisis Bisnis Online** -
+### 8. **Analisis Bisnis Online** -
 
-### 10. **Analisis Bisnis F&B** -
+### 9. **Analisis Bisnis F&B** -
 
-### 11. **Analisis Perubahan Font** -
+### 10. **Analisis Perubahan Font** -
 
-### 12. **What's Trending on YouTube** -
+### 11. **What's Trending on YouTube** - [Link](https://github.com/AdamGustiAndito/What-s-Trending-on-Youtube/tree/main)
+Proyek kali ini membuat sebuah dashboard untuk sebuah agensi periklanan yaitu Sterling & Draper meminta untuk menganalisis video yang sedang trending di YouTube guna menentukan jenis konten yang menarik bagi tim pemasaran. Ada beberapa tujuan yang ingin dicapai yaitu:
+- Menampilkan kategori video apa saja yang trending minggu lalu
+- Menampilkan penyebarannya di setiap wilayah
+- Menampilkan apa yang paling populer di Amerika Serikat
 
-### 13. **Fitness Profit Analysis** - [Link](https://github.com/AdamGustiAndito/Fitness-Profit-Analysis)
+### 12. **Fitness Profit Analysis** - [Link](https://github.com/AdamGustiAndito/Fitness-Profit-Analysis)
 Proyek ini bertujuan untuk menganalisis profil para pelanggan yang telah digitalisasi oleh waralaba pusat kebugaran yaitu "Model Fitness" yang bertujuan untuk mengurangi tingkat churn dan meningkatkan retensi pada para pelanggan. Untuk itu, ada beberapa hal yang harus dilakukan yaitu:
 - Mempelajari cara memprediksi probabilitas churn untuk bulan berikutnya bagi setiap pelanggan
 - Membuat segmentasi pengguna dengan memilih kelompok yang paling dominan dan mendeskripsikan fitur-fitur utamanya
@@ -50,7 +55,7 @@ Proyek ini bertujuan untuk menganalisis profil para pelanggan yang telah digital
 - Merekomendasikan langkah-langkah untuk mengurangi churn
 - Mendeskripsikan pola lain yang dapat ditemui terkait interaksi pelanggan
 
-### 14. **A/B Testing Recommender System** - [Link](https://github.com/AdamGustiAndito/AB-Testing-Recommender-System)
+### 13. **A/B Testing Recommender System** - [Link](https://github.com/AdamGustiAndito/AB-Testing-Recommender-System)
 Proyek ini bertujuan untuk menguji perubahan terkait pengenalan sistem rekomendasi yang telah ditingkatkan󠀲󠀡󠀠󠀦󠀥󠀨󠀢󠀧󠀳 dengan menggunakan metode A/B Testing dengan rincian sebagai berikut:
 - Nama eksperimen:󠀲󠀡󠀠󠀦󠀥󠀨󠀢󠀡󠀳 `recommender_system_test`
 - Kelompok: А (kontrol), B (funnel pembayaran yang baru)󠀲󠀡󠀠󠀦󠀥󠀨󠀢󠀢󠀳
@@ -62,7 +67,7 @@ Proyek ini bertujuan untuk menguji perubahan terkait pengenalan sistem rekomenda
 - Hasil yang diharapkan: dalam kurun waktu 14 hari setelah pendaftaran, para pengguna menunjukkan peningkatan dalam hal konversi ke tayangan halaman produk (peristiwa atau event product_page), aktivitas penambahan item ke keranjang belanja (product_cart), dan pembelian (purchase).󠀲󠀡󠀠󠀦󠀥󠀨󠀢󠀨󠀳󠀰 Pada setiap tahapan funnel `product_page → product_cart → purchase`, minimal akan ada peningkatan sebesar 10%.󠀲󠀡󠀠󠀦󠀥󠀨󠀢󠀩󠀳
 - Jumlah peserta eksperimen yang diharapkan: 6.000󠀲󠀡󠀠󠀦󠀥󠀨󠀣󠀠󠀳
 
-### 15. **Analysis of Bestsellers** - [Link](https://github.com/AdamGustiAndito/Analysis-of-bestsellers/blob/main/README.md)
+### 14. **Analysis of Bestsellers** - [Link](https://github.com/AdamGustiAndito/Analysis-of-bestsellers/blob/main/README.md)
 Proyek ini bertujuan untuk memahami tren buku dalam database yang telah diberikan oleh salah satu perusahaan startup yang bersaing dalam industri ini. Berikut rincian tugas yaitu:
 - Menghitung jumlah buku yang dirilis setelah tanggal 1 Januari 2000.󠀲󠀡󠀠󠀦󠀥󠀩󠀠󠀩󠀳
 - Menghitung jumlah ulasan pengguna dan rating rata-rata untuk setiap buku.󠀲󠀡󠀠󠀦󠀥󠀩󠀡󠀠󠀳
@@ -70,7 +75,7 @@ Proyek ini bertujuan untuk memahami tren buku dalam database yang telah diberika
 - Mengidentifikasi penulis dengan rating rata-rata buku tertinggi: temukan buku dengan rating minimal 50.󠀲󠀡󠀠󠀦󠀥󠀩󠀡󠀢󠀳
 - Menghitung jumlah rata-rata teks ulasan di antara pengguna yang memberi rating terhadap lebih dari 50 buku.
 
-### 16. **Product Variety Analysis** - [Link](https://github.com/AdamGustiAndito/Product-Analysis-Variation) 
+### 15. **Product Variety Analysis** - [Link](https://github.com/AdamGustiAndito/Product-Analysis-Variation) 
 Proyek ini bertujuan untuk menganalisis variasi produk yang dijual oleh toko online "Apa Hardware". Berikut beberapa tujuan dari proyek tersebut:
 - Mengetahui produk paling laku dan paling tidak laku.
 - Menentukan tren pembelian berdasarkan waktu.
@@ -80,9 +85,10 @@ Proyek ini bertujuan untuk menganalisis variasi produk yang dijual oleh toko onl
 
 
 ## 📌 Skill yang Digunakan:
-- Python (Pandas, Matplotlib, Seaborn)
+- Python (Pandas, Matplotlib, Seaborn, Plotly, Sklearn, Scipy)
 - SQL (PostgreSQL, MySQL)
 - Excel 
 - Tableau 
 
-📧 **Hubungi Saya**: 
+---
+📧 **Hubungi saya:** [LinkedIn](https://www.linkedin.com/in/adam-gusti-andito-1b04721b0/)
