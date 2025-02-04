@@ -40,7 +40,15 @@ Proyek ini bertujuan untuk menyiapkan laporan untuk divisi kredit suatu bank. De
 
 ### 12. **What's Trending on YouTube** -
 
-### 13. **Fitness Profit Analysis** -
+### 13. **Fitness Profit Analysis** - [Link](https://github.com/AdamGustiAndito/Fitness-Profit-Analysis)
+Proyek ini bertujuan untuk menganalisis profil para pelanggan yang telah digitalisasi oleh waralaba pusat kebugaran yaitu "Model Fitness" yang bertujuan untuk mengurangi tingkat churn dan meningkatkan retensi pada para pelanggan. Untuk itu, ada beberapa hal yang harus dilakukan yaitu:
+- Mempelajari cara memprediksi probabilitas churn untuk bulan berikutnya bagi setiap pelanggan
+- Membuat segmentasi pengguna dengan memilih kelompok yang paling dominan dan mendeskripsikan fitur-fitur utamanya
+- Menganalisis faktor yang paling memengaruhi churn
+- Menarik kesimpulan dasar dan memberikan rekomendasi terkait cara meningkatkan layanan pelanggan
+- Mengidentifikasi kelompok yang ditargetkan
+- Merekomendasikan langkah-langkah untuk mengurangi churn
+- Mendeskripsikan pola lain yang dapat ditemui terkait interaksi pelanggan
 
 ### 14. **A/B Testing Recommender System** - [Link](https://github.com/AdamGustiAndito/AB-Testing-Recommender-System)
 Proyek ini bertujuan untuk menguji perubahan terkait pengenalan sistem rekomendasi yang telah ditingkatkan󠀲󠀡󠀠󠀦󠀥󠀨󠀢󠀧󠀳 dengan menggunakan metode A/B Testing dengan rincian sebagai berikut:
