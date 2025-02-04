@@ -23,24 +23,51 @@ Proyek ini bertujuan untuk menyiapkan laporan untuk divisi kredit suatu bank. De
 - Hubungan antara tingkat pendapatan dengan probabilitas seseorang melakukan gagal bayar pinjaman.
 - Perbedaan tujuan pinjaman memengaruhi probabilitas seseorang melakukan gagal bayar pinjaman.
 
-### 3. **Analisis Penjualan Mobil** -
+### 3. **Analisis Penjualan Mobil** - [Link]()
 
-### 4. **Analisis Paket Prabayar** -
+### 4. **Analisis Paket Prabayar** - [Link]()
 
-### 5. **Analisis Video Game** -
+### 5. **Analisis Video Game** - [Link]()
 
-### 6. **Analisis Perjalanan dan Pengaruh Cuaca** -
+### 6. **Analisis Perjalanan dan Pengaruh Cuaca** - [Link](https://github.com/AdamGustiAndito/Analisis-Perjalanan-dan-Pengaruh-Cuaca)
+Proyek ini bertujuan untuk memahami pola perjalanan pada informasi yang tersedia. Perusahaan ingin mencari tahu preferensi penumpang dalam menggunakan layanan transportasi serta faktor eksternal pada perjalanan yaitu cuaca setempat. Untuk itu, perlunya menganalisis data dari kompetitor dan menguji hipotesis pengaruh cuaca terhadap frekuensi perjalanan. Beberapa tujuan yang ditetapkan yaitu:
+- Menguraikan data cuaca di Chicago pada bulan November 2017 dari situs web [Chicago Weather Records](https://practicum-content.s3.us-west-1.amazonaws.com/data-analyst-eng/moved_chicago_weather_2017.html)
+- Menguraikan data yang diperlukan dari database.
+- Menguji hipotesis durasi perjalanan dari Loop ke Bandara Internasional O'Hare saat hujan di hari Sabtu.
+- Mengidentifikasi 10 wilayah teratas yang dijadikan sebagai titik pengantaran.
+- Mengidentifikasi perusahaan taksi dan jumlah perjalanannya.
+- Mengidentifikasi 10 wilayah teratas berdasarkan jumlah pengantaran.
+- Memberikan rekomendasi strategi bisnis.
 
-### 7. **Analisis Anggaran Pemasaran** -
+### 7. **Analisis Anggaran Pemasaran** - [Link](https://github.com/AdamGustiAndito/Analisis-Anggaran-Pemasaran)
+Proyek ini bertujuan bertujuan untuk mengoptimalkan anggaran biaya pemasaran di perusahaan Y.Afisha. Analisis ini menggunakan data log atau catatan server yang memuat data kunjungan ke situs web Y.Afisha dari bulan Juni 2017 hingga bulan Mei 2018, data pesanan, dan data pengeluaran. Metrik-metrik yang ingin diketahui yaitu:
+- Mengetahui bagaimana para pengguna menggunakan produk Y.Afisha.
+- Mengetahui kapan mereka mulai melakukan pembelian.
+- Mengetahui berapa jumlah uang yang disumbangkan oleh setiap pengguna.
+- Kapan semua biaya pemasaran terbayarkan.
 
-### 8. **Analisis Bisnis Online** -
+### 8. **Analisis Bisnis Online** - [Link](https://github.com/AdamGustiAndito/Analisis-Bisnis-Online/tree/main)
+Proyek ini bertujuan untuk meningkatkat pendapatan di sebuah toko online besar. Bersama dengan tim pemasaran telah menyusun daftar hipotesis untuk: 
+- Meprioritaskan sebuah hipotesis yang telah disusun
+- Menjalankan hipotesis tersebut dengan melakukan A/B Testing. 
 
-### 9. **Analisis Bisnis F&B** -
+### 9. **Analisis Bisnis F&B** - [Link](https://github.com/AdamGustiAndito/Analisis-Bisnis-F-B)
+Proyek ini bertujuan untuk mempersiapkan sejumlah riset pasar untuk mendirikan sebuah kafe kecil di Los Angeles. Konsep kafe ini "memperkerjakan" robot sebagai pelayan atau pramusaji. Untuk menarik minat investor agar mau berinvestasi dengan cara menganalisis riset pasar saat ini. Untuk itu data yang digunakan yaitu dengan menggunakan data open-source terkait jenis-jenis usaha tempat makan di LA. Dengan beberapa langkahnya yaitu:
+- Meneliti proporsi dari berbagai jenis usaha.
+- Meneliti ciri-ciri dari jenis usaha berbasis waralaba.
+- Menentukan jumlah rata-rata kursi untuk setiap jenis usaha.
+- Menemukan sepuluh nama jalan teratas berdasarkan jumlah usaha.
+- Menemukan jumlah jalan yang hanya memiliki satu usaha.
+- Menemukan jalan yang dihuni oleh banyak usaha dan memperhatikan distribusi jumlah kursinya.
 
-### 10. **Analisis Perubahan Font** -
+### 10. **Analisis Perubahan Font** - [Link}(https://github.com/AdamGustiAndito/Analisis-Perubahan-Font)
+Proyek ini bertujuan untuk mencari tahu perilaku pengguna aplikasi dari perusahaan startup yang menjual produk makanan. Tim web designer perusahaan ini ingin mengubah font untuk keseluruhan aplikasi tetapi product manager merasa khawatir jika para pengguna justru akan merasa bahwa desain baru tersebut mengganggu. Sehingga untuk mengambil keputusan semuanya sepakat untuk melakukan A/A/B testing terlebih dahulu. Dengan tiga tujuan utama yaitu:
+- Mengidentifikasi analisis funnel penjualan.
+- Melakukan A/A/B testing kepada perilaku pengguna
+- Mengidentifikasi font yang memberikan hasil terbaik.
 
 ### 11. **What's Trending on YouTube** - [Link](https://github.com/AdamGustiAndito/What-s-Trending-on-Youtube/tree/main)
-Proyek kali ini membuat sebuah dashboard untuk sebuah agensi periklanan yaitu Sterling & Draper meminta untuk menganalisis video yang sedang trending di YouTube guna menentukan jenis konten yang menarik bagi tim pemasaran. Ada beberapa tujuan yang ingin dicapai yaitu:
+Proyek ini membuat sebuah dashboard untuk sebuah agensi periklanan yaitu Sterling & Draper meminta untuk menganalisis video yang sedang trending di YouTube guna menentukan jenis konten yang menarik bagi tim pemasaran. Ada beberapa tujuan yang ingin dicapai yaitu:
 - Menampilkan kategori video apa saja yang trending minggu lalu
 - Menampilkan penyebarannya di setiap wilayah
 - Menampilkan apa yang paling populer di Amerika Serikat
