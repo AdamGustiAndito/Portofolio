@@ -60,7 +60,7 @@ Proyek ini bertujuan untuk mempersiapkan sejumlah riset pasar untuk mendirikan s
 - Menemukan jumlah jalan yang hanya memiliki satu usaha.
 - Menemukan jalan yang dihuni oleh banyak usaha dan memperhatikan distribusi jumlah kursinya.
 
-### 10. **Analisis Perubahan Font** - [Link}(https://github.com/AdamGustiAndito/Analisis-Perubahan-Font)
+### 10. **Analisis Perubahan Font** - [Link](https://github.com/AdamGustiAndito/Analisis-Perubahan-Font)
 Proyek ini bertujuan untuk mencari tahu perilaku pengguna aplikasi dari perusahaan startup yang menjual produk makanan. Tim web designer perusahaan ini ingin mengubah font untuk keseluruhan aplikasi tetapi product manager merasa khawatir jika para pengguna justru akan merasa bahwa desain baru tersebut mengganggu. Sehingga untuk mengambil keputusan semuanya sepakat untuk melakukan A/A/B testing terlebih dahulu. Dengan tiga tujuan utama yaitu:
 - Mengidentifikasi analisis funnel penjualan.
 - Melakukan A/A/B testing kepada perilaku pengguna
