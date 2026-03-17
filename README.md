@@ -4,9 +4,6 @@
 Selamat datang di portofolio saya! 🎯
 Di sini, saya membagikan proyek analisis data yang telah saya kerjakan.
 
-### 🚨 Attention 🚨
-Halaman ini sedang dalam pembaruan file 🛠️
-
 ## 📂 Daftar Proyek:
 ### 1. **Analisis Musik di Kota Besar** - [Link](https://github.com/AdamGustiAndito/Analisa-Musik-di-Kota-Besar)
 Proyek ini bertujuan untuk membandingkan preferensi musik pengguna di kota Springfield dan Shelbyville. Proyek ini menggunakan data Y.music untuk menguji hipotesis dan membandingkan perilaku pengguna di kedua kota tersebut. Proyek ini bertujuan untuk menguji tiga hipotesis yaitu:
@@ -24,10 +21,16 @@ Proyek ini bertujuan untuk menyiapkan laporan untuk divisi kredit suatu bank. De
 - Perbedaan tujuan pinjaman memengaruhi probabilitas seseorang melakukan gagal bayar pinjaman.
 
 ### 3. **Analisis Penjualan Mobil** - [Link]()
+🚨 Attention 🚨
+Halaman ini sedang dalam pembaruan file 🛠️
 
 ### 4. **Analisis Paket Prabayar** - [Link]()
+🚨 Attention 🚨
+Halaman ini sedang dalam pembaruan file 🛠️
 
 ### 5. **Analisis Video Game** - [Link]()
+🚨 Attention 🚨
+Halaman ini sedang dalam pembaruan file 🛠️
 
 ### 6. **Analisis Perjalanan dan Pengaruh Cuaca** - [Link](https://github.com/AdamGustiAndito/Analisis-Perjalanan-dan-Pengaruh-Cuaca)
 Proyek ini bertujuan untuk memahami pola perjalanan pada informasi yang tersedia. Perusahaan ingin mencari tahu preferensi penumpang dalam menggunakan layanan transportasi serta faktor eksternal pada perjalanan yaitu cuaca setempat. Untuk itu, perlunya menganalisis data dari kompetitor dan menguji hipotesis pengaruh cuaca terhadap frekuensi perjalanan. Beberapa tujuan yang ditetapkan yaitu:
@@ -109,6 +112,18 @@ Proyek ini bertujuan untuk menganalisis variasi produk yang dijual oleh toko onl
 - Membuat model prediksi penjualan menggunakan machine learning.
 - Mengelompokkan produk berdasarkan kategori menggunakan clustering.
 - Memberikan rekomendasi strategi bisnis.
+
+### 16. **Customer Segmentation using K-Means vs Hierarchical Clustering (*Published Research*)** - [Link](https://github.com/AdamGustiAndito/Customer-Segmentation-using-K-Means-vs-Hierarchical-Clustering/tree/main)
+Proyek ini merupakan penelitian ilmiah yang telah dipublikasikan dalam prosiding Seminar Nasional Sains dan Teknologi (SAINTEK) Universitas Terbuka. Penelitian ini berfokus pada segmentasi pelanggan pusat kebugaran menggunakan metode unsupervised learning, yaitu K-Means dan Hierarchical Clustering, untuk mengidentifikasi pola perilaku pelanggan serta mendeteksi risiko churn.
+
+Beberapa hasil utama dari penelitian ini:
+- Ditemukan segmen pelanggan berisiko tinggi sebesar 31% dengan tingkat churn mencapai 84%
+- Segmen pelanggan loyal sebesar 68% dengan tingkat churn sangat rendah
+- K-Means menunjukkan performa lebih unggul dibandingkan Hierarchical Clustering berdasarkan stabilitas (Adjusted Rand Index), efisiensi komputasi, dan konsistensi hasil
+
+Penelitian ini menunjukkan bahwa churn pelanggan dapat diidentifikasi melalui pola perilaku, sehingga dapat digunakan sebagai dasar dalam pengambilan keputusan bisnis, khususnya dalam strategi retensi pelanggan.
+
+📄 Publikasi ilmiah: [Analisis Komparatif Metode K-Means dan Hierarchical Clustering dalam Segmentasi Pelanggan Pusat Kebugaran](https://conference.ut.ac.id/index.php/saintek/article/view/7999)
 
 
 ## 📌 Skill yang Digunakan:
